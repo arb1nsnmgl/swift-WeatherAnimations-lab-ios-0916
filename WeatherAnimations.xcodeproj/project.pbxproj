@@ -11,6 +11,7 @@
 		1B969AD91DAD7CDA00F8F9C9 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B969AD81DAD7CDA00F8F9C9 /* WeatherViewController.swift */; };
 		1B969ADE1DAD7CDA00F8F9C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B969ADD1DAD7CDA00F8F9C9 /* Assets.xcassets */; };
 		4CCFBEBF1DB077FB00732497 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CCFBEBE1DB077FB00732497 /* LaunchScreen.storyboard */; };
+		A77712491DB6B5A500F438DE /* Extra.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77712481DB6B5A500F438DE /* Extra.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1B969ADD1DAD7CDA00F8F9C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B969AE21DAD7CDA00F8F9C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4CCFBEBE1DB077FB00732497 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A77712481DB6B5A500F438DE /* Extra.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extra.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1B969AD61DAD7CDA00F8F9C9 /* AppDelegate.swift */,
 				1B969AD81DAD7CDA00F8F9C9 /* WeatherViewController.swift */,
+				A77712481DB6B5A500F438DE /* Extra.swift */,
 				4CCFBEBE1DB077FB00732497 /* LaunchScreen.storyboard */,
 				1B969ADD1DAD7CDA00F8F9C9 /* Assets.xcassets */,
 				1B969AE21DAD7CDA00F8F9C9 /* Info.plist */,
@@ -135,6 +138,7 @@
 			files = (
 				1B969AD91DAD7CDA00F8F9C9 /* WeatherViewController.swift in Sources */,
 				1B969AD71DAD7CDA00F8F9C9 /* AppDelegate.swift in Sources */,
+				A77712491DB6B5A500F438DE /* Extra.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
